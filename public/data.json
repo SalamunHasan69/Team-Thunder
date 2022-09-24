@@ -1,0 +1,50 @@
+[
+  {
+    "id": "01",
+    "picture": "https://i.ibb.co/SsCS0NY/Tanzid.jpg",
+    "name": "Tanzid Un Khalil",
+    "title": "Leader",
+    "gender": "Male",
+    "link": "https://www.facebook.com/tanzid.80"
+  },
+  {
+    "id": "03",
+    "picture": "https://i.ibb.co/mDKkDHK/Akib.jpg",
+    "name": "Akib Hassan",
+    "title": "Kill Chor",
+    "gender": "Male",
+    "link": "https://www.facebook.com/akib.hassan.official"
+  },
+  {
+    "id": "05",
+    "picture": "https://i.ibb.co/gTZFX6z/Akif.jpg",
+    "name": "Akif Tajwar",
+    "title": "Nola",
+    "gender": "Male",
+    "link": "https://www.facebook.com/akif.tajwar"
+  },
+  {
+    "id": "143",
+    "picture": "https://i.ibb.co/N9XdmP1/Ruku.jpg",
+    "name": "Latiful Azam Ruku",
+    "title": "King",
+    "gender": "Male",
+    "link": "https://www.facebook.com/latifulazam.ruku.5"
+  },
+  {
+    "id": "69",
+    "picture": "https://i.ibb.co/m67VSwz/IMG-20220102-122620.jpg",
+    "name": "Salamun Hasan",
+    "title": "Bot",
+    "gender": "Male",
+    "link": "https://www.facebook.com/salamun.hasan.69"
+  },
+  {
+    "id": "07",
+    "picture": "https://i.ibb.co/6wk4ztq/172551848-281745860227141-8290097168531068922-n.jpg",
+    "name": "Mahedi Hasan",
+    "title": "Magi",
+    "gender": "SheMale",
+    "link": "https://www.facebook.com/profile.php?id=100069498940602"
+  }
+]
